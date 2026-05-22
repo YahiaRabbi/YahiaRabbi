@@ -17,7 +17,7 @@
 - 💻 **Backend & Architecture:** Crafting high-performance asynchronous APIs (FastAPI/Flask) and designing heavily optimized relational databases (SQL, Normalization, Indexing).
 - 🤖 **AI & Automation:** Building advanced, self-hosted agentic workflows (n8n, LangChain) that integrate with LLMs to eliminate manual operational labor.
 - 📈 **Data & Analytics:** Leveraging server-side tracking, web analytics (Google Tag Manager), and Python (NumPy, Pandas) to extract and process deep business insights.
-- 🏆 **Algorithmic Problem Solving:** Actively competing on **LeetCode** and **Codeforces**, utilizing advanced Data Structures and Algorithms (DSA) to write highly efficient, low-latency code.
+- 🏆 **Algorithmic Problem Solving:** Actively competing in Competitive Programming, utilizing advanced Data Structures and Algorithms (DSA) to write highly efficient, low-latency Python code.
 - 🌐 **Full-Stack Ecosystems:** Deploying end-to-end applications spanning from React frontends to secure, Dockerized Linux infrastructure.
 
 <br/>
@@ -25,13 +25,9 @@
 ### 🏆 Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</div>
-<br/>
-<div align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-    <img src="https://img.shields.io/badge/Codeforces-Dynamic_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-100%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/Language-Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python CP" />
+  <img src="https://img.shields.io/badge/Codeforces-Active_Competitor-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
 </div>
 
 <br/>
@@ -83,21 +79,4 @@
 <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" />
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</details>
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahiaRabbi&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A3A3A3&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahiaRabbi&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=A3A3A3" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+<img src="
