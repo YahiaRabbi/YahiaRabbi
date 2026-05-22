@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Yahia 🚀</h1>
+  <h1>Hi, I'm Yahia! 👨🏻‍💻🚀💡</h1>
   <h3>Software Engineer | AI Automation Architect | Competitive Programmer</h3>
   <p>Building scalable backend systems, intelligent AI workflows, and robust data pipelines from Bogura, Bangladesh.</p>
 </div>
